@@ -7,7 +7,7 @@ This web app is an RSS aggregator. Python, Flask, and Beautifulsoup are used on 
 
 [Repo](https://github.com/Pifriday/Soupreader) | [Published site](https://soup.isaiah.dev/)
 
-## School work
+## Coursework
 
 ### 500 Cities Project
 This team project was created for the course INST490: Integrated Capstone for Information Science. The project involved working with data from the CDC's [500 Cities Project](https://www.cdc.gov/500cities/index.htm). The website and GitHub repo feature Jupyter Notebooks where the data was analyzed and visualizations created with D3.js
