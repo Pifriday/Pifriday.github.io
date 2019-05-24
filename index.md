@@ -1,5 +1,4 @@
 ## Personal projects
-This portfolio is a collection of programming and data science projects that I've completed.
 
 ### Soupreader
 This web app is an RSS aggregator that was created using Python, Flask, and the Beautifulsoup library. The app allows users to create an account and save the URLs of RSS feeds they're interested in following. Posts from those feeds are then saved to a MySQL database once daily; alternatively, users can manually refresh their feed of articles. For RSS feeds that do not include thumbnails, Soupreader scrapes the article's source to find images. The site was published using PythonAnywhere.
