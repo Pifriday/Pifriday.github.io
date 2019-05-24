@@ -3,7 +3,7 @@
 ## Personal projects
 
 ### Soupreader
-This web app is an RSS aggregator that was created using Python, Flask, and the Beautifulsoup library. The app allows users to create an account and save the URLs of RSS feeds they're interested in following. Posts from those feeds are then saved to a MySQL database once daily; alternatively, users can manually refresh their feed of articles. For RSS feeds that do not include thumbnails, Soupreader scrapes the article's source to find images. The site was published using PythonAnywhere.
+This web app is an RSS aggregator. Python, Flask, and Beautifulsoup are used on the backend; Bootstrap and vanilla JavaScript are used on the frontend. The app allows users to create an account and save the URLs of RSS feeds they're interested in following. Posts from those feeds are then saved to a MySQL database once daily; alternatively, users can manually refresh their feed of articles. For RSS feeds that do not include thumbnails, Soupreader scrapes the article's source to find images. The site was published using PythonAnywhere.
 
 [Repo](https://github.com/Pifriday/Soupreader) | [Published site](https://soup.isaiah.dev/)
 
