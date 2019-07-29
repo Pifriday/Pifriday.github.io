@@ -2,6 +2,12 @@
 
 ## Personal projects
 
+### Tetris
+This single-page app is a clone of Tetris created using D3.js and TypeScript. The game is played via the arrow keys.
+
+[Repo](https://github.com/Pifriday/Tetris) | [Published site](https://patrick.isaiah.dev/Tetris/index.html)
+
+
 ### Soupreader
 This web app is an RSS aggregator. Python, Flask, and Beautifulsoup are used on the backend; Bootstrap and vanilla JavaScript are used on the frontend. The app allows users to create an account and save the URLs of RSS feeds they're interested in following. Posts from those feeds are then saved to a MySQL database once daily; alternatively, users can manually refresh their feed of articles. For RSS feeds that do not include thumbnails, Soupreader scrapes the article's source to find images. The site was published using PythonAnywhere.
 
