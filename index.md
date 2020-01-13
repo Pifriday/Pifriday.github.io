@@ -14,7 +14,7 @@ A notebook created for the course BSCI402: Genomics of Sensory Systems. In this 
 
 ## Stand-alone projects
 
-## MMR Vaccine Map
+### MMR Vaccine Map
 A notebook containing an interactive map of MMR vaccination coverage from 1999 to 2014.
 
 [nbviewer](https://nbviewer.jupyter.org/github/Pifriday/Pifriday.github.io/blob/master/Notebooks/Vaccinations/Map.ipynb)
