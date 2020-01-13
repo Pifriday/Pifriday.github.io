@@ -11,3 +11,10 @@ This team project was created for the course INST490: Integrated Capstone for In
 A notebook created for the course BSCI402: Genomics of Sensory Systems. In this notebook, BioPython is used to perform a transcription factor binding site analysis on the genomes of 5 Cichlid species.
 
 [Repo](https://github.com/Pifriday/Pifriday.github.io/tree/master/Notebooks/Cichlid%20TFBS) | [nbviewer](https://nbviewer.jupyter.org/github/Pifriday/Pifriday.github.io/blob/master/Notebooks/Cichlid%20TFBS/TFBS.ipynb)
+
+## Stand-alone projects
+
+## MMR Vaccine Map
+A notebook containing an interactive map of MMR vaccination coverage from 1999 to 2014.
+
+[nbviewer](https://nbviewer.jupyter.org/github/Pifriday/Pifriday.github.io/blob/master/Notebooks/Vaccinations/Map.ipynb)
