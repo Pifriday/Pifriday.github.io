@@ -12,9 +12,9 @@ A notebook created for the course BSCI402: Genomics of Sensory Systems. In this 
 
 [Repo](https://github.com/Pifriday/Pifriday.github.io/tree/master/Notebooks/Cichlid%20TFBS) | [nbviewer](https://nbviewer.jupyter.org/github/Pifriday/Pifriday.github.io/blob/master/Notebooks/Cichlid%20TFBS/TFBS.ipynb)
 
-## Stand-alone projects
+## Web Apps
 
-### MMR Vaccine Map
-A notebook containing an interactive map of MMR vaccination coverage from 1999 to 2014.
+### CoinEye
+An application that tracks and visualizes cryptocurrency prices movement.
 
-[nbviewer](https://nbviewer.jupyter.org/github/Pifriday/Pifriday.github.io/blob/master/Notebooks/Vaccinations/Map.ipynb)
+[Published Site](https://patrick.isaiah.dev/Web_apps/CoinEye/) | _Technology Used: Ionic, Angular, D3.js_
