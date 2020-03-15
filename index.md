@@ -18,3 +18,6 @@ A notebook created for the course BSCI402: Genomics of Sensory Systems. In this 
 An application that tracks and visualizes cryptocurrency prices movement.
 
 [Published Site](https://patrick.isaiah.dev/Web_apps/CoinEye/) | _Technology Used: Ionic, Angular, D3.js_
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQps0KwXuIEIhudy0yMjSrLJfgTQywf2NBBX0HEA5hAe0gDL2DTz4O0XRgj3yBbpkDjv2ULya4vZPbA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
