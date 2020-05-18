@@ -1,5 +1,12 @@
 ###### Portfolio by Patrick Friday
 
+## Notebooks
+
+### Cell Super Resolution
+A Python notebook where machine learning is used to try and bring out-of-focus microscope images into focus.
+
+[Repo](https://github.com/Pifriday/Cell-Super-Res) | [nbviewer](https://nbviewer.jupyter.org/github/Pifriday/Cell-Super-Res/blob/master/SR.ipynb)
+
 ## Web Apps
 
 ### CoinEye
@@ -7,7 +14,7 @@ An application that tracks and visualizes cryptocurrency prices movement.
 
 __Frontend:__ Ionic, Angular, D3.js
 
-[Published Site](https://patrick.isaiah.dev/Web_apps/CoinEye/) | [Repo](https://github.com/Pifriday/CoinEye)
+[Repo](https://github.com/Pifriday/CoinEye) | [Published Site](https://patrick.isaiah.dev/Web_apps/CoinEye/)
 
 ### Instrument Scanner
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQps0KwXuIEIhudy0yMjSrLJfgTQywf2NBBX0HEA5hAe0gDL2DTz4O0XRgj3yBbpkDjv2ULya4vZPbA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
